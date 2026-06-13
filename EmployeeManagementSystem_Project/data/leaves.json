@@ -1,0 +1,12 @@
+[
+  { "id": 1, "employeeId": 101, "startDate": "2025-02-01", "endDate": "2025-02-03", "reason": "Medical", "status": "Approved" },
+  { "id": 2, "employeeId": 102, "startDate": "2025-02-05", "endDate": "2025-02-06", "reason": "Personal", "status": "Pending" },
+  { "id": 3, "employeeId": 103, "startDate": "2025-02-10", "endDate": "2025-02-12", "reason": "Family Event", "status": "Approved" },
+  { "id": 4, "employeeId": 104, "startDate": "2025-02-15", "endDate": "2025-02-16", "reason": "Travel", "status": "Rejected" },
+  { "id": 5, "employeeId": 105, "startDate": "2025-02-20", "endDate": "2025-02-22", "reason": "Vacation", "status": "Pending" },
+  { "id": 6, "employeeId": 106, "startDate": "2025-02-25", "endDate": "2025-02-25", "reason": "Emergency", "status": "Approved" },
+  { "id": 7, "employeeId": 107, "startDate": "2025-02-27", "endDate": "2025-03-01", "reason": "Health", "status": "Pending" },
+  { "id": 8, "employeeId": 108, "startDate": "2025-03-05", "endDate": "2025-03-07", "reason": "Conference", "status": "Approved" },
+  { "id": 9, "employeeId": 109, "startDate": "2025-03-10", "endDate": "2025-03-12", "reason": "Personal", "status": "Rejected" },
+  { "id": 10, "employeeId": 101, "startDate": "2025-03-15", "endDate": "2025-03-16", "reason": "Family", "status": "Pending" }
+]

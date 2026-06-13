@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "System Admin",
+    "department": "HR",
+    "jobTitle": "Administrator",
+    "salary": 0.0,
+    "username": "admin",
+    "password": "admin"
+  },
+  {
+    "id": 101,
+    "name": "Mahmoud Hassan",
+    "department": "IT",
+    "jobTitle": "Java Developer",
+    "salary": 7000.0,
+    "username": "101",
+    "password": "1234"
+  },
+  {
+    "id": 102,
+    "name": "Ahmed Ali",
+    "department": "IT",
+    "jobTitle": "Backend Developer",
+    "salary": 6500.0,
+    "username": "102",
+    "password": "1234"
+  },
+  {
+    "id": 103,
+    "name": "Sara Mohamed",
+    "department": "HR",
+    "jobTitle": "HR Specialist",
+    "salary": 5000.0,
+    "username": "103",
+    "password": "1234"
+  },
+  {
+    "id": 104,
+    "name": "Omar Khaled",
+    "department": "Finance",
+    "jobTitle": "Accountant",
+    "salary": 5500.0,
+    "username": "104",
+    "password": "1234"
+  },
+  {
+    "id": 105,
+    "name": "Nada Youssef",
+    "department": "Marketing",
+    "jobTitle": "Marketing Officer",
+    "salary": 4800.0,
+    "username": "105",
+    "password": "1234"
+  },
+  {
+    "id": 106,
+    "name": "Youssef Adel",
+    "department": "IT",
+    "jobTitle": "Frontend Developer",
+    "salary": 6200.0,
+    "username": "106",
+    "password": "1234"
+  },
+  {
+    "id": 107,
+    "name": "Mona Samir",
+    "department": "Sales",
+    "jobTitle": "Sales Executive",
+    "salary": 4500.0,
+    "username": "107",
+    "password": "1234"
+  },
+  {
+    "id": 108,
+    "name": "Hassan Fathy",
+    "department": "Operations",
+    "jobTitle": "Operations Manager",
+    "salary": 8000.0,
+    "username": "108",
+    "password": "1234"
+  },
+  {
+    "id": 109,
+    "name": "Rana Ibrahim",
+    "department": "Customer Support",
+    "jobTitle": "Support Agent",
+    "salary": 4200.0,
+    "username": "109",
+    "password": "1234"
+  }
+]

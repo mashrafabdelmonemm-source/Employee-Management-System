@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "IT",
+    "description": "Information Technology Department"
+  },
+  {
+    "id": 2,
+    "name": "HR",
+    "description": "Human Resources Department"
+  },
+  {
+    "id": 3,
+    "name": "Finance",
+    "description": "Finance and Accounting"
+  },
+  {
+    "id": 4,
+    "name": "Marketing",
+    "description": "Marketing \u0026 Advertising"
+  },
+  {
+    "id": 5,
+    "name": "Sales",
+    "description": "Sales Department"
+  },
+  {
+    "id": 6,
+    "name": "Operations",
+    "description": "Operations Management"
+  },
+  {
+    "id": 7,
+    "name": "Customer Support",
+    "description": "Customer Service"
+  },
+  {
+    "id": 8,
+    "name": "Logistics",
+    "description": "Logistics \u0026 Supply Chain"
+  },
+  {
+    "id": 9,
+    "name": "Legal",
+    "description": "Legal Affairs"
+  },
+  {
+    "id": 10,
+    "name": "Management",
+    "description": "Executive Management"
+  }
+]

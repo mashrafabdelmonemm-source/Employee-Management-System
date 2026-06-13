@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "employeeId": 101,
+    "baseSalary": 7000.0,
+    "totalHours": 0.0,
+    "deductions": 200.0,
+    "finalSalary": 0.0
+  },
+  {
+    "id": 0,
+    "employeeId": 102,
+    "baseSalary": 6500.0,
+    "totalHours": 0.0,
+    "deductions": 150.0,
+    "finalSalary": 0.0
+  },
+  {
+    "id": 0,
+    "employeeId": 103,
+    "baseSalary": 5000.0,
+    "totalHours": 0.0,
+    "deductions": 100.0,
+    "finalSalary": 0.0
+  },
+  {
+    "id": 0,
+    "employeeId": 104,
+    "baseSalary": 5500.0,
+    "totalHours": 0.0,
+    "deductions": 0.0,
+    "finalSalary": 0.0
+  },
+  {
+    "id": 0,
+    "employeeId": 105,
+    "baseSalary": 4800.0,
+    "totalHours": 0.0,
+    "deductions": 50.0,
+    "finalSalary": 0.0
+  },
+  {
+    "id": 0,
+    "employeeId": 106,
+    "baseSalary": 6200.0,
+    "totalHours": 0.0,
+    "deductions": 0.0,
+    "finalSalary": 0.0
+  },
+  {
+    "id": 0,
+    "employeeId": 107,
+    "baseSalary": 4500.0,
+    "totalHours": 0.0,
+    "deductions": 100.0,
+    "finalSalary": 0.0
+  },
+  {
+    "id": 0,
+    "employeeId": 108,
+    "baseSalary": 8000.0,
+    "totalHours": 0.0,
+    "deductions": 300.0,
+    "finalSalary": 0.0
+  },
+  {
+    "id": 0,
+    "employeeId": 109,
+    "baseSalary": 4200.0,
+    "totalHours": 0.0,
+    "deductions": 0.0,
+    "finalSalary": 0.0
+  }
+]
